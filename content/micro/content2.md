@@ -1,6 +1,6 @@
 ﻿---
-title: "Test micro 3"
-description: "micro post"
+title: "Getting this setup"
+description: "Sort of journal"
 tags:
   - micro
   - test
@@ -13,4 +13,4 @@ videos: []
 images: []
 ---
 
-Markdown micro test post for the theme.
+Going to journal this out.

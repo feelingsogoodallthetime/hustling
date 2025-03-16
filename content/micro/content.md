@@ -1,5 +1,5 @@
-﻿title: "Test micro 3"
-description: "micro post"
+﻿title: "My Eyes Only"
+description: "Private Thoughts Processing"
 tags:
   - micro
   - test
@@ -11,4 +11,4 @@ audio: []
 videos: []
 images: []
 
-Markdown micro test post for the theme.
+Processing of Thoughts location

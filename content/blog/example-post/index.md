@@ -15,7 +15,7 @@ categories:
 series:
   - hugo
 syndicate:
-  - "https://example.org"
+  - "https://gangstalking.cc"
 audio: []
 videos: []
 images: []

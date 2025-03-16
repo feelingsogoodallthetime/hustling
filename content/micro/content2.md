@@ -7,7 +7,7 @@ tags:
 date: "2014-04-02"
 publishDate: "2014-04-02"
 syndicate:
-  - "https://example.org"
+  - "https://gangstalking.cc"
 audio: []
 videos: []
 images: []

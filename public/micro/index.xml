@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microes on My New Hugo Site</title>
-    <link>https://example.org/micro/</link>
+    <link>https://gangstalking.cc/micro/</link>
     <description>Recent content in Microes on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/micro/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gangstalking.cc/micro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test micro 3</title>
-      <link>https://example.org/micro/content2/</link>
+      <link>https://gangstalking.cc/micro/content2/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.org/micro/content2/</guid>
+      <guid>https://gangstalking.cc/micro/content2/</guid>
       <description>&lt;p&gt;Markdown micro test post for the theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.org/micro/content/</link>
+      <link>https://gangstalking.cc/micro/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/micro/content/</guid>
-      <description>&lt;p&gt;title: &amp;ldquo;Test micro 3&amp;rdquo;&#xA;description: &amp;ldquo;micro post&amp;rdquo;&#xA;tags:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;micro&lt;/li&gt;&#xA;&lt;li&gt;test&#xA;date: &amp;ldquo;2014-04-02&amp;rdquo;&#xA;publishDate: &amp;ldquo;2014-04-02&amp;rdquo;&#xA;syndicate:&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;&lt;a href=&#34;https://example.org&#34;&gt;https://example.org&lt;/a&gt;&amp;rdquo;&#xA;audio: []&#xA;videos: []&#xA;images: []&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Markdown micro test post for the theme.&lt;/p&gt;</description>
+      <guid>https://gangstalking.cc/micro/content/</guid>
+      <description>&lt;p&gt;title: &amp;ldquo;Test micro 3&amp;rdquo;&#xA;description: &amp;ldquo;micro post&amp;rdquo;&#xA;tags:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;micro&lt;/li&gt;&#xA;&lt;li&gt;test&#xA;date: &amp;ldquo;2014-04-02&amp;rdquo;&#xA;publishDate: &amp;ldquo;2014-04-02&amp;rdquo;&#xA;syndicate:&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;&lt;a href=&#34;https://gangstalking.cc&#34;&gt;https://gangstalking.cc&lt;/a&gt;&amp;rdquo;&#xA;audio: []&#xA;videos: []&#xA;images: []&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Markdown micro test post for the theme.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

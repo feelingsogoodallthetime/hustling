@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
+    <link>https://gangstalking.cc/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gangstalking.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.org/about/</link>
+      <link>https://gangstalking.cc/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>https://gangstalking.cc/about/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is a static site engine written in Go.&lt;/p&gt;&#xA;&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/spf13&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Test micro 3</title>
-      <link>https://example.org/micro/content2/</link>
+      <link>https://gangstalking.cc/micro/content2/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.org/micro/content2/</guid>
+      <guid>https://gangstalking.cc/micro/content2/</guid>
       <description>&lt;p&gt;Markdown micro test post for the theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Test post</title>
-      <link>https://example.org/blog/example-post/</link>
+      <link>https://gangstalking.cc/blog/example-post/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.org/blog/example-post/</guid>
+      <guid>https://gangstalking.cc/blog/example-post/</guid>
       <description>&lt;p&gt;Markdown test post for the theme.&lt;/p&gt;&#xA;&lt;p&gt;Nisi aliquid ratione aut. Et laborum est et qui distinctio nemo et nobis. Cumque ab suscipit ad labore nesciunt dolore quo molestias. Enim perferendis et sunt.&lt;/p&gt;&#xA;&lt;p&gt;Beatae odio et adipisci ullam aperiam recusandae. Occaecati non aspernatur harum in delectus vero facere. Similique aut ea animi. Possimus distinctio et qui.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.org/micro/content/</link>
+      <link>https://gangstalking.cc/micro/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/micro/content/</guid>
-      <description>&lt;p&gt;title: &amp;ldquo;Test micro 3&amp;rdquo;&#xA;description: &amp;ldquo;micro post&amp;rdquo;&#xA;tags:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;micro&lt;/li&gt;&#xA;&lt;li&gt;test&#xA;date: &amp;ldquo;2014-04-02&amp;rdquo;&#xA;publishDate: &amp;ldquo;2014-04-02&amp;rdquo;&#xA;syndicate:&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;&lt;a href=&#34;https://example.org&#34;&gt;https://example.org&lt;/a&gt;&amp;rdquo;&#xA;audio: []&#xA;videos: []&#xA;images: []&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Markdown micro test post for the theme.&lt;/p&gt;</description>
+      <guid>https://gangstalking.cc/micro/content/</guid>
+      <description>&lt;p&gt;title: &amp;ldquo;Test micro 3&amp;rdquo;&#xA;description: &amp;ldquo;micro post&amp;rdquo;&#xA;tags:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;micro&lt;/li&gt;&#xA;&lt;li&gt;test&#xA;date: &amp;ldquo;2014-04-02&amp;rdquo;&#xA;publishDate: &amp;ldquo;2014-04-02&amp;rdquo;&#xA;syndicate:&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;&lt;a href=&#34;https://gangstalking.cc&#34;&gt;https://gangstalking.cc&lt;/a&gt;&amp;rdquo;&#xA;audio: []&#xA;videos: []&#xA;images: []&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Markdown micro test post for the theme.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

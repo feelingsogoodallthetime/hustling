@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on My New Hugo Site</title>
-    <link>https://example.org/blog/</link>
+    <link>https://gangstalking.cc/blog/</link>
     <description>Recent content in Blogs on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gangstalking.cc/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test post</title>
-      <link>https://example.org/blog/example-post/</link>
+      <link>https://gangstalking.cc/blog/example-post/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.org/blog/example-post/</guid>
+      <guid>https://gangstalking.cc/blog/example-post/</guid>
       <description>&lt;p&gt;Markdown test post for the theme.&lt;/p&gt;&#xA;&lt;p&gt;Nisi aliquid ratione aut. Et laborum est et qui distinctio nemo et nobis. Cumque ab suscipit ad labore nesciunt dolore quo molestias. Enim perferendis et sunt.&lt;/p&gt;&#xA;&lt;p&gt;Beatae odio et adipisci ullam aperiam recusandae. Occaecati non aspernatur harum in delectus vero facere. Similique aut ea animi. Possimus distinctio et qui.&lt;/p&gt;</description>
     </item>
   </channel>

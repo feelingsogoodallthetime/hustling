@@ -99,5 +99,5 @@ SectionPagesMenu = "main"
   utterancesIssueTerm="pathname" # Default: pathname
 [params.mastodon] # https://joinmastodon.org/verification
   username = "username"
-  server = "https://example.com"
+  server = "https://gangstalking.cc"
 ~~~~

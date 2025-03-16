@@ -1,5 +1,5 @@
 ﻿title: "My Eyes Only"
-description: "Private77777777777 Thoughts Processing"
+description: "Private Thoughts Processing"
 tags:
   - micro
   - test
